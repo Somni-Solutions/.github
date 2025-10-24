@@ -1,10 +1,17 @@
 # Somni Solutions
 
-_Somni Solutions is a small company specializing in FBG based fiber optic cables._
+
+Somni Solutions is a small company specializing in FBG based fiber optic cables.
+
+This github page is dedicated to all Python script used by Somni employee's, namely used for calibrations and the like.
 
 
-_This github page is dedicated to all Python script used by Somni employee's, namely used for calibrations and the like._ 
+For any inquiry regarding scripts or this github page please contact:
 
-_For any inquiry regarding scripts or possibly our fiber optic cables use the following email:_
+anouar.ameziane@somnisolutions.com
 
-[Link to e-mail]anouar.ameziane@somnisolutions.com
+For questions regarding our fibers please visit our website at:
+
+https://www.somnisolutions.com/
+
+![somni_solutions_300](https://github.com/user-attachments/assets/de8924ce-d63d-4e5f-9554-a33a0b4ae52f)
