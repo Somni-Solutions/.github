@@ -1,7 +1,10 @@
 # Somni Solutions
 
 
-Somni Solutions is a small company specializing in FBG based fiber optic cables.
+Somni Solutions is a company based in the Netherlands. 
+
+We specialize in FBG based fiber optic sensors from accelerometers to pressure sensors
+
 
 This github page is dedicated to all Python script used by Somni employee's, namely used for calibrations and the like.
 
