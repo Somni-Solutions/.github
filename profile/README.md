@@ -5,4 +5,4 @@ This github page is dedicated to all Python script used by Somni employee's, nam
 
 For any inquiry regarding scripts or possibly our fiber optic cables use the following email:
 
-blablabla@hotmail.com
+anouar.ameziane@somnisolutions.com
