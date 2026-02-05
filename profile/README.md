@@ -11,7 +11,7 @@ This github page is dedicated to all Python script used by Somni employee's, nam
 
 For any inquiry regarding scripts or this github page please contact:
 
-anouar.ameziane@somnisolutions.com
+piet.vanandel@somnisolutions.com
 
 For questions regarding our fibers please visit our website at:
 
